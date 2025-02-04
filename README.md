@@ -5,8 +5,8 @@
 **ID:**  
 `Q1-I2025-ENGLISH-COURSE-NOUS-LATAM`
 
-### Versión corta
-
+**Versión corta:**
 `Q1.2025.EC`
 
-# Bienvenidos TODOS
+# Welcome Everybody
+*(Bienvenidos todos los seres)*
