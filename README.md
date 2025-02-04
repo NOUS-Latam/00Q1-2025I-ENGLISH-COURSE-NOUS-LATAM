@@ -1,4 +1,4 @@
-# Inglés para los Desesperados (Q1-2025I-ENGLISH-COURSE-NOUS-LATAM)
+# Inglés para los Desesperados
 
 **ID:**  
 `Q1-2025I-ENGLISH-COURSE-NOUS-LATAM`
