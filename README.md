@@ -2,10 +2,11 @@
 
 ## Inglés para los Desesperados
 
-**ID:** `Q1-I2025-ENGLISH-COURSE-NOUS-LATAM`
+**ID:**  
+`Q1-I2025-ENGLISH-COURSE-NOUS-LATAM`
 
 ### Versión corta
 
-Q1.2025.EC
+`Q1.2025.EC`
 
 # Bienvenidos TODOS
