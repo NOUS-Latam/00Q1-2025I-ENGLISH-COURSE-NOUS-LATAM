@@ -5,5 +5,5 @@
 **ID:**  
 `Q2-2025P-ENGLISH-COURSE-NOUS-LATAM`
 
-**Versión corta:**  
+**ID - Versión corta:**  
 `Q2.2025.EC`
