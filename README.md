@@ -1,9 +1,9 @@
 # Inglés para los Desesperados
 
-## **Invierno / Enero de 2025, Q1**  
+## **Primavera / Marzo de 2025, Q2**  
 
 **ID:**  
-`Q1-2025I-ENGLISH-COURSE-NOUS-LATAM`
+`Q2-2025P-ENGLISH-COURSE-NOUS-LATAM`
 
 **Versión corta:**  
-`Q1.2025.EC`
+`Q2.2025.EC`
