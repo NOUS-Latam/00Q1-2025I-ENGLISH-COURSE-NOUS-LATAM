@@ -5,4 +5,4 @@ Inglés para los Desesperados NOUS-LATAM-I-Q1-2025-ENGLISH-COURSE
 
 Q1.2025.EC
 
-# ¡¡Bienvenidos TODOS!!
+# Bienvenidos TODOS
